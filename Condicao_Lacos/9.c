@@ -19,7 +19,7 @@ int main(void){
             contador_pares += 1;
         }
     }
-    
+
     printf("Numeros Lidos: %d\nNumeros Pares: %d", contador_lidos, contador_pares);
     
     return 0;
